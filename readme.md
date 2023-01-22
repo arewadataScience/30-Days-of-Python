@@ -93,11 +93,11 @@
 # 📘 Day 1
 
 
-
-<div style="text-align: justify">  
-
+<p align="justify">
 
 ## Welcome
+
+
  
 This marks the beginning of the curriculum at Arewa Data Science Academy. We firmly believe that a strong understanding of Python programming will greatly enhance your experience in learning data science and machine learning. In this course, you will be comprehensively taught everything required to become a proficient Python programmer, including Python for data science and the fundamentals of programming. Upon successful completion of this challenge, you will be awarded a certificate of Python Programmer from Arewa Data Science Academy
 
@@ -111,6 +111,8 @@ This challenge is designed to help you improve your Python skills through daily 
 
 It is a programming language which is very close to human language and because of that it is easy to learn and use.
 Python is used by various industries and companies (including Google). It has been used to develop web applications, desktop applications, system adminstration, and machine learning libraries. Python is highly embraced language in the data science and machine learning community. I hope this is enough to convince you to start learning Python. Python is eating the world and you are killing it before it eats you.
+
+<div align="justify">
 
 ## Environment Setup
 
