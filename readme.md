@@ -92,7 +92,10 @@
 
 # 📘 Day 1
 
-<p align="justify"> 
+
+
+<div style="text-align: justify">  
+
 
 ## Welcome
  
@@ -451,6 +454,8 @@ To run the python file check the image below. You can run the python file either
 2. Find an [Euclidian distance](https://en.wikipedia.org/wiki/Euclidean_distance#:~:text=In%20mathematics%2C%20the%20Euclidean%20distance,being%20called%20the%20Pythagorean%20distance.) between (2, 3) and (10, 8)
 
 🎉 CONGRATULATIONS ! 🎉
-</p>
+
+</div> 
+
 
 [Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
