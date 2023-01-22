@@ -1,3 +1,28 @@
+
+
+<p align="center">
+<img src="/image/naijasenti_logo1.png" width="500">
+ 
+
+--------------------------------------------------------------------------------
+
+
+
+![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=hausanlp.NaijaSenti)[<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://hausanlp.org/) 
+
+
+
+
+`NaijaSenti` is an open-source sentiment and emotion corpora for four major Nigerian languages. This project was supported by [lacuna-fund](https://lacunafund.org) initiatives.  Jump straight to one of the sections below, or just scroll down to find out more.
+
+## Update (05/09/2022): We are running a SemEval competition and we release more sentiment dataset from African languages including NaiJaSenti Dataset. Visit the AfriSenti SemEval page for more information : [AfriSenti-SemEval Task 12](https://afrisenti-semeval.github.io)
+
+## Update (05/09/2022): Send me email (shamsuddeen2004@gmail.com) if you need NaijaSenti Dataset. We can send you anonymized dataset.
+  
+ anonomize 
+
+
+
 # 🐍 : Arewa Data Science 30 Days Of Python 
 
 |# Day | Topics                                                    |
