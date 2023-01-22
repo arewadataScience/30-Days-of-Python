@@ -51,7 +51,7 @@
 
   <sub>Author:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> Adopted modified by Arewa Data Science</small>
+  <small> Adopted and modified by Arewa Data Science</small>
   </sub>
 </div>
 
