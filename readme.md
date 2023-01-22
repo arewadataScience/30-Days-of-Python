@@ -92,6 +92,8 @@
 
 # 📘 Day 1
 
+<p align="justify"> 
+
 ## Welcome
  
 This marks the beginning of the curriculum at Arewa Data Science Academy. We firmly believe that a strong understanding of Python programming will greatly enhance your experience in learning data science and machine learning. In this course, you will be comprehensively taught everything required to become a proficient Python programmer, including Python for data science and the fundamentals of programming. Upon successful completion of this challenge, you will be awarded a certificate of Python Programmer from Arewa Data Science Academy
@@ -449,5 +451,6 @@ To run the python file check the image below. You can run the python file either
 2. Find an [Euclidian distance](https://en.wikipedia.org/wiki/Euclidean_distance#:~:text=In%20mathematics%2C%20the%20Euclidean%20distance,being%20called%20the%20Pythagorean%20distance.) between (2, 3) and (10, 8)
 
 🎉 CONGRATULATIONS ! 🎉
+</p>
 
 [Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
