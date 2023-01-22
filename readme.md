@@ -1,4 +1,4 @@
-# 🐍 30 Days Of Python 
+# 🐍 : Arewa Data Science 30 Days Of Python 
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
@@ -60,7 +60,7 @@
 
 ![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
-- [🐍 30 Days Of Python](#-30-days-of-python)
+- [🐍 : Arewa Data Science 30 Days Of Python](#--arewa-data-science-30-days-of-python)
 - [📘 Day 1](#-day-1)
   - [Welcome](#welcome)
   - [Introduction](#introduction)
