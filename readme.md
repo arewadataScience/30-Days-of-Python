@@ -14,7 +14,6 @@
 
 
 
-<div align="center">
 
 <div align="center">
 
@@ -56,6 +55,7 @@
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
 </div>
+
 <div>
 <small>Support the <strong>author</strong> to create more educational materials</small> <br />  
 <a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
@@ -74,6 +74,7 @@
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
   <small> Adopted and modified by Arewa Data Science</small>
   </sub>
+
 </div>
 
 
