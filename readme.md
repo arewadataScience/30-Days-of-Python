@@ -51,7 +51,7 @@
 
   <sub>Author:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> Second Edition: July, 2021</small>
+  <small> Adopted modified by Arewa Data Science</small>
   </sub>
 </div>
 
