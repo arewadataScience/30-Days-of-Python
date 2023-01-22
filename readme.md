@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="/images/DataScience.jpeg" width="80%",  height="80%">
+<img src="/images/DataScience.jpeg" width="80%",  height="50%">
 
  
 
