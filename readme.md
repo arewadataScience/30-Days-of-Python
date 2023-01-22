@@ -99,13 +99,15 @@
 
 
  
-This marks the beginning of the curriculum at Arewa Data Science Academy. We firmly believe that a strong understanding of Python programming will greatly enhance your experience in learning data science and machine learning. In this course, you will be comprehensively taught everything required to become a proficient Python programmer, including Python for data science and the fundamentals of programming. Upon successful completion of this challenge, you will be awarded a certificate of Python Programmer from Arewa Data Science Academy
+This marks the beginning of the curriculum at Arewa Data Science Academy. We firmly believe that a strong understanding of Python programming will greatly enhance your experience in learning data science and machine learning. In this course, you will be comprehensively taught everything required to become a proficient Python programmer, including Python for data science and the fundamentals of programming. Upon successful completion of this challenge, you will be awarded a certificate of Python Programmer from Arewa Data Science Academy.
+
+This challenge is designed to help you improve your Python skills through daily exercises inspired by the book "Atomic Habits" by James Clear. Each day, you will be presented with a task that will help you build better habits and become more proficient in Python. By completing these daily tasks, you will gain a deeper understanding of the language and be able to apply your knowledge to real-world problems. Remember, consistency is key, so make sure to complete each task every day to get the most out of this challenge. Be active in our channel and ask question if you have. No dump question.
+
 
 ## Introduction
 
 Python is a powerful, high-level programming language that is suitable for a wide range of general-purpose programming tasks. It is an open-source, interpreted, and object-oriented language that was created by Dutch programmer Guido van Rossum. The name "Python" was inspired by the British sketch comedy series "Monty Python's Flying Circus." The first version of the language was released on February 20, 1991. This 30-day Python challenge will guide you through the latest version of Python, Python 3, in a step-by-step manner. The topics are broken down into 30 days, with each day covering multiple subjects, including easy-to-understand explanations, practical examples, hands-on exercises, and projects.
 
-This challenge is designed to help you improve your Python skills through daily exercises inspired by the book "Atomic Habits" by James Clear. Each day, you will be presented with a task that will help you build better habits and become more proficient in Python. By completing these daily tasks, you will gain a deeper understanding of the language and be able to apply your knowledge to real-world problems. Remember, consistency is key, so make sure to complete each task every day to get the most out of this challenge. Be active in our channel and ask question if you have. No dump question.
 
 ## Why Python ?
 
