@@ -16,7 +16,7 @@
 
 
 
-# 🐍 : Arewa Data Science 30 Days Of Python 
+# 🐍  Arewa Data Science 30 Days Of Python  🐍
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
