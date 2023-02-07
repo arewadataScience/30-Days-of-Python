@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="/images/arewadsgit.png">
+<img src="/images/arewadsimage.png">
 
  
 --------------------------------------------------------------------------------
