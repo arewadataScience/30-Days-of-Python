@@ -17,8 +17,6 @@
 
 
 # 🐍  Arewa Data Science 30 Days Of Python  🐍
- 
- "Long Term Consistency Trumps Short Term Intensity"...Bruce Lee
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
