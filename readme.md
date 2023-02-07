@@ -1,8 +1,7 @@
 
 
 <p align="center">
-<img src="/images/arewadslog.png">
-
+<img src="/images/arewadsgit.png">
 
  
 --------------------------------------------------------------------------------
