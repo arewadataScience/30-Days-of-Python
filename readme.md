@@ -1,25 +1,4 @@
-
-
-<p align="center">
-<img src="/images/arewadslog.png">
-
-
- 
---------------------------------------------------------------------------------
-
-<div align="center">
-
-
-![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=hausanlp.NaijaSenti)[<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://arewadatascience.org/) 
-
-
-
-
-
-
-# 🐍  Arewa Data Science 30 Days Of Python  🐍
- 
- "Long Term Consistency Trumps Short Term Intensity"...Bruce Lee
+# 🐍 30 Days Of Python 
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
@@ -56,6 +35,24 @@
 
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
+<div>
+<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
+<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+</div>
+
+<div align="center">
+  <h1> 30 Days Of Python: Day 1 - Introduction</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
+
+  <sub>Author:
+  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <small> Second Edition: July, 2021</small>
+  </sub>
 </div>
 
 
@@ -63,7 +60,7 @@
 
 ![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
-- [🐍 : Arewa Data Science 30 Days Of Python](#--arewa-data-science-30-days-of-python)
+- [🐍 30 Days Of Python](#-30-days-of-python)
 - [📘 Day 1](#-day-1)
   - [Welcome](#welcome)
   - [Introduction](#introduction)
@@ -94,32 +91,23 @@
 
 # 📘 Day 1
 
-
-<p align="justify">
-
 ## Welcome
 
+**Congratulations** for deciding to participate in a _30 days of Python_ programming challenge . In this challenge you will learn everything you need to be a python programmer and the whole concept of programming. In the end of the challenge you will get a _30DaysOfPython_ programming challenge certificate.
 
- 
-This marks the beginning of the curriculum at Arewa Data Science Academy. We firmly believe that a strong understanding of Python programming will greatly enhance your experience in learning data science and machine learning. In this course, you will be comprehensively taught everything required to become a proficient Python programmer, including Python for data science and the fundamentals of programming. Upon successful completion of this challenge, you will be awarded a certificate of Python Programmer from Arewa Data Science Academy. Only those who completed the challenge will move to the next stage of the fellowship.
-
-This challenge is designed to help you improve your Python skills through daily exercises inspired by the book "Atomic Habits" by James Clear. Each day, you will be presented with a task that will help you build better habits and become more proficient in Python. By completing these daily tasks, you will gain a deeper understanding of the language and be able to apply your knowledge to real-world problems. Remember, consistency is key, so make sure to complete each task every day to get the most out of this challenge. Be active in our channel and ask question if you have. No dump question.
-
-This 30-day Python Challenge is a rigorous and challenging program. It is not just a simple series of exercises, but an opportunity to build better habits and become more proficient in the language. Completing this challenge will require dedication and hard work, but the results will be well worth it. This is a great opportunity to take your skills to the next level, so be prepared to push yourself and stay committed to the challenge. 
-Remember, the only way to improve is to challenge yourself, so let's get started!
-
+If you would like to actively engage in the challenge, you may join the [30DaysOfPython challenge](https://t.me/ThirtyDaysOfPython) telegram group.  
 
 ## Introduction
 
-Python is a powerful, high-level programming language that is suitable for a wide range of general-purpose programming tasks. It is an open-source, interpreted, and object-oriented language that was created by Dutch programmer Guido van Rossum. The name "Python" was inspired by the British sketch comedy series "Monty Python's Flying Circus." The first version of the language was released on February 20, 1991. This 30-day Python challenge will guide you through the latest version of Python, Python 3, in a step-by-step manner. The topics are broken down into 30 days, with each day covering multiple subjects, including easy-to-understand explanations, practical examples, hands-on exercises, and projects.
+Python is a high-level programming language for general-purpose programming. It is an open source, interpreted, objected-oriented programming language. Python was created by a Dutch programmer, Guido van Rossum. The name of Python programming language was derived from a British sketch comedy series, *Month Python's Flying Circus*.  The first version was released on February 20, 1991. This 30 days of Python challenge will help you learn the latest version of Python, Python 3 step by step. The topics are broken down into 30 days, where each day contains several topics with easy-to-understand explanations, real-world examples, many hands on exercises and projects.
 
+This challenge is designed for beginners and professionals who want to learn python programming language. It may take 30 to 100 days to complete the challenge, people who actively participate on the telegram group have a high probability of completing the challenge.
+If you are a visual learner or in favor of videos, you may get started with this [Python for Absolute Beginners video](https://www.youtube.com/watch?v=11OYpBrhdyM).
 
 ## Why Python ?
 
 It is a programming language which is very close to human language and because of that it is easy to learn and use.
 Python is used by various industries and companies (including Google). It has been used to develop web applications, desktop applications, system adminstration, and machine learning libraries. Python is highly embraced language in the data science and machine learning community. I hope this is enough to convince you to start learning Python. Python is eating the world and you are killing it before it eats you.
-
-<div align="justify">
 
 ## Environment Setup
 
@@ -463,8 +451,5 @@ To run the python file check the image below. You can run the python file either
 2. Find an [Euclidian distance](https://en.wikipedia.org/wiki/Euclidean_distance#:~:text=In%20mathematics%2C%20the%20Euclidean%20distance,being%20called%20the%20Pythagorean%20distance.) between (2, 3) and (10, 8)
 
 🎉 CONGRATULATIONS ! 🎉
-
-</div> 
-
 
 [Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
