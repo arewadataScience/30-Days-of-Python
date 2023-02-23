@@ -579,6 +579,8 @@ ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 - Find the range of the ages (max minus min)
 - Compare the value of (min - average) and (max - average), use _abs()_ method
 
+### Exercises: Level 3
+
 1. Find the middle country(ies) in the [countries list](https://github.com/Asabeneh/30-Days-Of-Python/tree/master/data/countries.py)
 1. Divide the countries list into two equal lists if it is even if not one more country for the first half.
 1. ['China', 'Russia', 'USA', 'Finland', 'Sweden', 'Norway', 'Denmark']. Unpack the first three countries and the rest as scandic countries.

@@ -45,7 +45,7 @@
 
 ## Regular Expressions
 
-A regular expression or RegEx is a special text string that helps to find patterns in data. A RegEx can be used to check if some pattern exists in a different data type. To use RegEx in python first we should import the RegEx module which is called *re*.
+A regular expression or RegEx is a special text string that helps to find patterns in data. A RegEx can be used to check if some pattern exists in a different data type. To use RegEx in python, first we should import the RegEx module which is called *re*.
 
 ### The *re* Module
 
@@ -80,7 +80,7 @@ txt = 'I love to teach python and javaScript'
 # It returns an object with span, and match
 match = re.match('I love to teach', txt, re.I)
 print(match)  # <re.Match object; span=(0, 15), match='I love to teach'>
-# We can get the starting and ending position of the match as tuple using span
+# We can get the starting and ending position of the match as a tuple using span
 span = match.span()
 print(span)     # (0, 15)
 # Lets find the start and stop position from the span
@@ -100,7 +100,7 @@ match = re.match('I like to teach', txt, re.I)
 print(match)  # None
 ```
 
-The string does not string with *I like to teach*, therefore there was no match and the match method returned None.
+The string does not start with *I like to teach*, therefore there was no match and the match method returned None.
 
 #### Search
 
@@ -365,7 +365,7 @@ matches = re.findall(regex_pattern, txt)
 print(matches)  # ['6', '2019', '8', '2021']
 ```
 
-### Cart ^
+### Caret ^
 
 * Starts with
   
