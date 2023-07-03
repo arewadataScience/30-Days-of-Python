@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="/images/arewadsimage.png">
+https://arewadatascience.github.io
 
  
 --------------------------------------------------------------------------------
