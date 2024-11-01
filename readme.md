@@ -61,8 +61,8 @@ example
 
 ![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
-- [🐍  Arewa Data Science 30 Days Of Python  🐍](#--arewa-data-science-30-days-of-python--)
-- [📘 Day 1](#-day-1)
+- [🐍  Arewa Data Science Academy Python Programming for Data Science  🐍](#--arewa-data-science-30-days-of-python--)
+- [📘 Module 1](#-day-1)
   - [Welcome](#welcome)
   - [Introduction](#introduction)
   - [Why Python ?](#why-python-)
@@ -423,7 +423,7 @@ To run the python file check the image below. You can run the python file either
 
 🌕  You are amazing. You have just completed day 1 challenge and you are on your way to greatness. Now do some exercises for your brain and muscles.
 
-## 💻 Exercises - Day 1
+## 💻 Exercises - Module 1
 
 ### Exercise: Level 1
 
@@ -465,4 +465,4 @@ To run the python file check the image below. You can run the python file either
 </div> 
 
 
-[Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
+[Module 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
