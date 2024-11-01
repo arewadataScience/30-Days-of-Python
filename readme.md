@@ -22,35 +22,27 @@ example
 |# Module | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](./readme.md)|
-| 02  |  [Variables, Built-in Functions](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)|
-| 03  |  [Operators](./03_Day_Operators/03_operators.md)|
-| 04  |  [Strings](./04_Day_Strings/04_strings.md)|
-| 05  |  [Lists](./05_Day_Lists/05_lists.md)|
-| 06  |  [Tuples](./06_Day_Tuples/06_tuples.md)|
-| 07  |  [Sets](./07_Day_Sets/07_sets.md)|
-| 08  |  [Dictionaries](./08_Day_Dictionaries/08_dictionaries.md)|
-| 09  |  [Conditionals](./09_Day_Conditionals/09_conditionals.md)|
-| 10  |  [Loops](./10_Day_Loops/10_loops.md)|
-| 11  |  [Functions](./11_Day_Functions/11_functions.md)|
-| 12  |  [Modules](./12_Day_Modules/12_modules.md)|
-| 13  |  [List Comprehension](./13_Day_List_comprehension/13_list_comprehension.md)|
-| 14  |  [Higher Order Functions](./14_Day_Higher_order_functions/14_higher_order_functions.md)|     
-| 15  |  [Python Type Errors](./15_Day_Python_type_errors/15_python_type_errors.md)| 
-| 16 |  [Python Date time](./16_Day_Python_date_time/16_python_datetime.md) |     
-| 17 |  [Exception Handling](./17_Day_Exception_handling/17_exception_handling.md)|    
-| 18 |  [Regular Expressions](./18_Day_Regular_expressions/18_regular_expressions.md)|    
-| 19 |  [File Handling](./19_Day_File_handling/19_file_handling.md)|
-| 20 |  [Python Package Manager](./20_Day_Python_package_manager/20_python_package_manager.md)|
-| 21 |  [Classes and Objects](./21_Day_Classes_and_objects/21_classes_and_objects.md)|
-| 22 |  [Web Scraping](./22_Day_Web_scraping/22_web_scraping.md)|
-| 23 |  [Virtual Environment](./23_Day_Virtual_environment/23_virtual_environment.md)|
-| 24 |  [Statistics](./24_Day_Statistics/24_statistics.md)|
-| 25 |  [Pandas](./25_Day_Pandas/25_pandas.md)|
-| 26 |  [Python web](./26_Day_Python_web/26_python_web.md)|
-| 27 |  [Python with MongoDB](./27_Day_Python_with_mongodb/27_python_with_mongodb.md)|
-| 28 |  [API](./28_Day_API/28_API.md)|
-| 29 |  [Building API](./29_Day_Building_API/29_building_API.md)|
-| 30 |  [Conclusions](./30_Day_Conclusions/30_conclusions.md)|
+| 02  |  [Variables, Built-in Functions](./02_Module_Variables_builtin_functions/02_variables_builtin_functions.md)|
+| 03  |  [Operators](./03_Module_Operators/03_operators.md)|
+| 04  |  [Strings](./04_Module_Strings/04_strings.md)|
+| 05  |  [Lists, Tuples and Sets](./05_Module_Lists_Tuples_Sets/05_lists_tuples_sets.md)|
+| 06  |  [Dictionaries](./06_Module_Dictionaries/06_dictionaries.md)|
+| 07  |  [Conditionals](./07_Module_Conditionals/07_conditionals.md)|
+| 08  |  [Loops](./08_Module_Loops/08_loops.md)|
+| 09  |  [Functions, List Comprehensions](./09_Module_Functions_List_Comprehensions/09_functions_list_comprehensions.md)|
+| 10  |  [Higher Order Functions](./10_Module_Higher_order_functions/10_higher_order_functions.md)|     
+| 11  |  [Python Type Errors and Exception Handling](./11_Module_Python_type_errors/11_python_type_errors.md)| 
+| 12 |  [Regular Expressions](./12_Module_Regular_expressions/12_regular_expressions.md)|
+| 13 |  [Python Date time](./13_Module_Python_date_time_file_handling/13_python_datetime_file_handling.md) |   
+| 14 |  [Modules, Virtual Environment](./14_Module_Modules_Virtual_environment/14_modules_virtual_environment.md)|
+| 15 |  [Python Package Manager](./15_Module_Python_package_manager/15_python_package_manager.md)|
+    
+| 16 |  [Classes and Objects](./16_Module_Classes_and_objects/16_classes_and_objects.md)|
+| 17 |  [Web Scraping](./17_Module_Web_scraping_API/17_web_scraping_api.md)|
+
+| 18 |  [Statistics, NumPy and Pandas](./18_Module_Statistics_Numpy_Pandas/24_statistics_numpy_pandas.md)|
+
+
 
 🧡🧡🧡 HAPPY CODING, Credits to [Asabeneh](https://testimonial-vdzd.onrender.com)
  🧡🧡🧡
@@ -465,4 +457,4 @@ To run the python file check the image below. You can run the python file either
 </div> 
 
 
-[Module 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
+[Module 2 >>](./02_Module_Variables_builtin_functions/02_variables_builtin_functions.md)

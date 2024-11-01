@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 14 - Higher Order Functions</h1>
+  <h1> Python Programming for Data Science: Module 10 - Higher Order Functions</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -14,10 +14,10 @@
 </div>
 </div>
 
-[<< Day 13](../13_Day_List_comprehension/13_list_comprehension.md) | [Day 15>>](../15_Day_Python_type_errors/15_python_type_errors.md)
+[<< Module 9](../09_Module_Functions_List_Comprehensions/09_functions_list_comprehensions.md) | [Module 11 >>](../11_Module_Python_type_errors/11_python_type_errors.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-- [📘 Day 14](#-day-14)
+- [📘 Module 10](#-module-10)
   - [Higher Order Functions](#higher-order-functions)
     - [Function as a Parameter](#function-as-a-parameter)
     - [Function as a Return Value](#function-as-a-return-value)
@@ -35,7 +35,7 @@
     - [Exercises: Level 2](#exercises-level-2)
     - [Exercises: Level 3](#exercises-level-3)
 
-# 📘 Day 14
+# 📘 Module 10
 
 ## Higher Order Functions
 
@@ -367,4 +367,4 @@ numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 13](../13_Day_List_comprehension/13_list_comprehension.md) | [Day 15>>](../15_Day_Python_type_errors/15_python_type_errors.md)
+[<< Module 9](../09_Module_Functions_List_Comprehensions/09_functions_list_comprehensions.md) | [Module 11 >>](../11_Module_Python_type_errors/11_python_type_errors.md)

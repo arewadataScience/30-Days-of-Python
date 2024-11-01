@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 10 - Loops</h1>
+  <h1> Python Programming for Data Science: Module 8 - Loops</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -13,11 +13,11 @@
 </sub>
 </div>
 
-[<< Day 9](../09_Day_Conditionals/09_conditionals.md) | [Day 11 >>](../11_Day_Functions/11_functions.md)
+[<< Module 7](../07_Module_Conditionals/07_conditionals.md) | [Module 9 >>](../09_Module_Functions_List_Comprehensions/09_functions_list_comprehensions.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Day 08](#-day-08)
+- [📘 Module 08](#-module-08)
   - [Loops](#loops)
     - [While Loop](#while-loop)
     - [Break and Continue - Part 1](#break-and-continue---part-1)
@@ -32,7 +32,7 @@
     - [Exercises: Level 2](#exercises-level-2)
     - [Exercises: Level 3](#exercises-level-3)
 
-# 📘 Day 8
+# 📘 Module 8
 
 ## Loops
 
@@ -458,4 +458,4 @@ for number in range(6):
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 7](../07_Day_Conditionals/07_conditionals.md) | [Day 9 >>](../09_Day_Functions_List_Comprehensions/09_functions_list_comprehension.md)
+[<< Module 7](../07_Module_Conditionals/07_conditionals.md) | [Module 9 >>](../09_Module_Functions_List_Comprehensions/09_functions_list_comprehensions.md)

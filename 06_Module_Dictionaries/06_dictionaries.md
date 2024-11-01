@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 8 - Dictionaries</h1>
+  <h1> Python Programming for Data Science: Module 6 - Dictionaries</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -13,12 +13,11 @@
 </sub>
 
 </div>
-
-[<< Day 7 ](../07_Day_Sets/07_sets.md) | [Day 9 >>](../09_Day_Conditionals/09_conditionals.md)
+[<< Module 5](../05_Module_Lists_Tuples_Sets/05_lists_tuples_sets.md) | [Module 7 >>](../07_Module_Conditionals/07_conditionals.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Day 8](#-day-8)
+- [📘 Module 6](#-module-6)
   - [Dictionaries](#dictionaries)
     - [Creating a Dictionary](#creating-a-dictionary)
     - [Dictionary Length](#dictionary-length)
@@ -35,7 +34,7 @@
     - [Getting Dictionary Values as a List](#getting-dictionary-values-as-a-list)
   - [💻 Exercises: Day 8](#-exercises-day-8)
 
-# 📘 Day 8
+# 📘 Module 6
 
 ## Dictionaries
 
@@ -323,7 +322,7 @@ print(values)     # dict_values(['value1', 'value2', 'value3', 'value4'])
 
 🌕 You are astonishing. Now, you are super charged with the power of dictionaries. You have just completed day 8 challenges and you are 8 steps a head in to your way to greatness. Now do some exercises for your brain and  muscles.
 
-## 💻 Dictionaries Exercises
+## 💻 Exercises: Module 6
 
 1. Create  an empty dictionary called dog
 2. Add name, color, breed, legs, age to the dog dictionary
@@ -339,4 +338,4 @@ print(values)     # dict_values(['value1', 'value2', 'value3', 'value4'])
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 5 ](../05_Day_Lists_Tuples_Sets/05_lists_tuples_sets.md) | [Day 7 >>](../07_Day_Conditionals/07_conditionals.md)
+[<< Module 5](../05_Module_Lists_Tuples_Sets/05_lists_tuples_sets.md) | [Module 7 >>](../07_Module_Conditionals/07_conditionals.md)

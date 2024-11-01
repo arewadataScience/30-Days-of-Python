@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 15 - Python Type Errors </h1>
+  <h1> Python Programming for Data Science: Module 11 - Python Type Errors and Exception Handling </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -14,10 +14,10 @@
 </div>
 </div>
 
-[<< Day 14](../14_Day_Higher_order_functions/14_higher_order_functions.md) | [Day 16 >>](../16_Day_Python_date_time/16_python_datetime.md)
+[<< Module 10](../10_Module_Higher_order_functions/10_higher_order_functions.md) | [Module 12 >>](../12_Module_Regular_expressions/12_regular_expressions.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-- [📘 Day 15](#-day-15)
+- [📘 Module 11](#-module-11)
   - [Python Error Types](#python-error-types)
     - [SyntaxError](#syntaxerror)
     - [NameError](#nameerror)
@@ -31,7 +31,7 @@
     - [ZeroDivisionError](#zerodivisionerror)
   - [💻 Exercises: Day 15](#-exercises-day-15)
 
-# 📘 Day 15
+# 📘 Module 11
 
 ## Python Error Types
 
@@ -631,4 +631,4 @@ print(fruits_and_veges)
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 14](../14_Day_Higher_order_functions/14_higher_order_functions.md) | [Day 16 >>](../16_Day_Python_date_time/16_python_datetime.md)
+[<< Module 10](../10_Module_Higher_order_functions/10_higher_order_functions.md) | [Module 12 >>](../12_Module_Regular_expressions/12_regular_expressions.md)

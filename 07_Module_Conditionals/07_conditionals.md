@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 9 - Conditionals</h1>
+  <h1> Python Programming for Data Science: Module 7 - Conditionals</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -14,11 +14,11 @@
 
 </div>
 
-[<< Day 8](../08_Day_Dictionaries/08_dictionaries.md) | [Day 10 >>](../10_Day_Loops/10_loops.md)
+[<< Module 6](../06_Module_Dictionaries/06_dictionaries.md)| [Module 8 >>](../08_Module_Loops/08_loops.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Day 9](#-day-9)
+- [📘 Module 7](#-module-7)
   - [Conditionals](#conditionals)
     - [If Condition](#if-condition)
     - [If Else](#if-else)
@@ -32,7 +32,7 @@
     - [Exercises: Level 2](#exercises-level-2)
     - [Exercises: Level 3](#exercises-level-3)
 
-# 📘 Day 9
+# 📘 Module 7
 
 ## Conditionals
 
@@ -284,4 +284,4 @@ Enter number two: 3
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 6](../06_Day_Dictionaries/06_dictionaries.md) | [Day 8 >>](../08_Day_Loops/08_loops.md)
+[<< Module 6](../06_Module_Dictionaries/06_dictionaries.md)| [Module 8 >>](../08_Module_Loops/08_loops.md)

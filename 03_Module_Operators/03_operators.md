@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 3 - Operators</h1>
+  <h1> Python Programming for Data Science: Module 3 - Operators</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -13,11 +13,11 @@
 </sub>
 </div>
 
-[<< Day 2](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md) | [Day 4 >>](../04_Day_Strings/04_strings.md)
+[<< Module 2](../02_Modules_Variables_builtin_functions/02_variables_builtin_functions.md) | [Module 4 >>](../04_Module_Strings/04_strings.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Day 3](#-day-3)
+- [📘 Module 3](#-day-3)
   - [Boolean](#boolean)
   - [Operators](#operators)
     - [Assignment Operators](#assignment-operators)
@@ -26,7 +26,7 @@
     - [Logical Operators](#logical-operators)
   - [💻 Exercises - Day 3](#-exercises---day-3)
 
-# 📘 Day 3
+# 📘 Module 3
 
 ## Boolean
 
@@ -250,7 +250,7 @@ print(not not False) # False
 
 🌕 You have boundless energy. You have just completed day 3 challenges and you are three steps ahead on your way to greatness. Now do some exercises for your brain and your muscles.
 
-## 💻 Exercises - Day 3
+## 💻 Exercises - Module 3
 
 1. Declare your age as integer variable
 2. Declare your height as a float variable
@@ -314,4 +314,4 @@ You have lived for 3153600000 seconds.
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 2](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md) | [Day 4 >>](../04_Day_Strings/04_strings.md)
+[<< Module 2](../02_Module_Variables_builtin_functions/02_variables_builtin_functions.md) | [Module 4 >>](../04_Module_Strings/04_strings.md)

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 12 - Modules </h1>
+  <h1> Python Programming for Data Science: Module 14 - Modules and Virtual Environment </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -15,11 +15,11 @@
 </div>
 </div>
 
-[<< Day 11](../11_Day_Functions/11_functions.md) | [Day 13>>](../13_Day_List_comprehension/13_list_comprehension.md)
+[<< Module 13](../13_Module_Python_date_time_file_handling/13_python_datetime_file_handling.md) | [Module 15 >>](../15_Module_Python_package_manager/15_python_package_manager.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Day 12](#-day-12)
+- [📘 Module 14](#-module-14)
   - [Modules](#modules)
     - [What is a Module](#what-is-a-module)
     - [Creating a Module](#creating-a-module)
@@ -38,7 +38,7 @@
     - [Exercises: Level 2](#exercises-level-2)
     - [Exercises: Level 3](#exercises-level-3)
 
-# 📘 Day 12
+# 📘 Module 14
 
 ## Modules
 
@@ -247,7 +247,7 @@ print(randint(5, 20)) # it returns a random integer number between [5, 20] inclu
 
 🌕 You are going far. Keep going! You have just completed day 12 challenges and you are 12 steps a head in to your way to greatness. Now do some exercises for your brain and muscles.
 
-## 💻 Exercises: Day 12
+## 💻 Exercises: Module 14
 
 ### Exercises: Level 1
 
@@ -391,4 +391,5 @@ The necessary modules to work with flask are installed. Now, your project direct
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 11](../11_Day_Functions/11_functions.md) | [Day 13>>](../13_Day_List_comprehension/13_list_comprehension.md)
+[<< Module 13](../13_Module_Python_date_time_file_handling/13_python_datetime_file_handling.md) | [Module 15 >>](../15_Module_Python_package_manager/15_python_package_manager.md)
+

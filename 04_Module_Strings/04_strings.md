@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 4 - Strings</h1>
+  <h1> Python Programming for Data Science: Module 4 - Strings</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -14,11 +14,11 @@
 
 </div>
 
-[<< Day 3](../03_Day_Operators/03_operators.md) | [Day 5 >>](../05_Day_Lists/05_lists.md)
+[<< Module 3](../03_Module_Operators/03_operators.md) | [Module 5 >>](../05_Module_Lists_Tuples_Sets/05_lists_tuples_sets.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [Day 4](#day-4)
+- [Module 4](#module-4)
   - [Strings](#strings)
     - [Creating a String](#creating-a-string)
     - [String Concatenation](#string-concatenation)
@@ -36,7 +36,7 @@
     - [String Methods](#string-methods)
   - [💻 Exercises - Day 4](#-exercises---day-4)
 
-# Day 4
+# Module 4
 
 ## Strings
 
@@ -532,7 +532,7 @@ print(challenge.startswith('thirty')) # False
 
 🌕 You are an extraordinary person and you have a remarkable potential. You have just completed day 4 challenges and you are four steps a head in to your way to greatness. Now do some exercises for your brain and muscles.
 
-## 💻 Exercises - Day 4
+## 💻 Exercises - Module 4
 
 1. Concatenate the string 'Thirty', 'Days', 'Of', 'Python' to a single string, 'Thirty Days Of Python'.
 2. Concatenate the string 'Coding', 'For' , 'All' to a single string, 'Coding For All'.
@@ -600,6 +600,6 @@ The area of a circle with radius 10 is 314 meters square.
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 3](../03_Day_Operators/03_operators.md) | [Day 5 >>](../05_Day_Lists/05_lists.md)
+[<< Module 3](../03_Module_Operators/03_operators.md) | [Module 5 >>](../05_Module_Lists_Tuples_Sets/05_lists_tuples_sets.md)
 
 

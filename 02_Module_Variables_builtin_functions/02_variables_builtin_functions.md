@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 2 - Variables, Builtin Functions</h1>
+  <h1> Python Programming for Data Science: Module 2 - Variables, Builtin Functions</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -14,22 +14,22 @@
 
 </div>
 
-[<< Day 1](../readme.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
+[<< Module 1](../readme.md) | [Module 3 >>](../03_Module_Operators/03_operators.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![Python Programming for Data Science](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Day 2](#-day-2)
+- [📘 Module 2](#-Module-2)
   - [Built in functions](#built-in-functions)
   - [Variables](#variables)
     - [Declaring Multiple Variable in a Line](#declaring-multiple-variable-in-a-line)
   - [Data Types](#data-types)
   - [Checking Data types and Casting](#checking-data-types-and-casting)
   - [Numbers](#numbers)
-  - [💻 Exercises - Day 2](#-exercises---day-2)
+  - [💻 Exercises - Module 2](#-exercises---module-2)
     - [Exercises: Level 1](#exercises-level-1)
     - [Exercises: Level 2](#exercises-level-2)
 
-# 📘 Day 2
+# 📘 Module 2
 
 ## Built in functions
 
@@ -259,7 +259,7 @@ Number data types in Python:
 
 🌕 You are awesome. You have just completed day 2 challenges and you are two steps ahead on your way to greatness. Now do some exercises for your brain and muscles.
 
-## 💻 Exercises - Day 2
+## 💻 Exercises - Module 2
 
 ### Exercises: Level 1
 
@@ -299,4 +299,4 @@ Number data types in Python:
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 1](../readme.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
+[<< Module 1](../readme.md) | [Module 3 >>](../03_Module_Operators/03_operators.md)

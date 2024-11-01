@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 21 - Classes and Objects</h1>
+  <h1> Python Programming for Data Science: Module 16 - Classes and Objects</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -14,11 +14,11 @@
 
 </div>
 
-[<< Day 20](../20_Day_Python_package_manager/20_python_package_manager.md) | [Day 22 >>](../22_Day_Web_scraping/22_web_scraping.md)
+[<< Module 15](../15_Module_Python_package_manager/15_python_package_manager.md) | [Module 17 >>](../17_Module_Web_scraping_API/17_web_scraping_api.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Day 21](#-day-21)
+- [📘 Module 16 ](#-module-16)
   - [Classes and Objects](#classes-and-objects)
     - [Creating a Class](#creating-a-class)
     - [Creating an Object](#creating-an-object)
@@ -33,7 +33,7 @@
     - [Exercises: Level 2](#exercises-level-2)
     - [Exercises: Level 3](#exercises-level-3)
 
-# 📘 Day 21
+# 📘 Module 16
 
 ## Classes and Objects
 
@@ -367,4 +367,4 @@ Frequency Distribution: [(20.0, 26), (16.0, 27), (12.0, 32), (8.0, 37), (8.0, 34
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 20](../20_Day_Python_package_manager/20_python_package_manager.md) | [Day 22 >>](../22_Day_Web_scraping/22_web_scraping.md)
+[<< Module 15](../15_Module_Python_package_manager/15_python_package_manager.md) | [Module 17 >>](../17_Module_Web_scraping_API/17_web_scraping_api.md)

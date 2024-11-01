@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 16 - Python Date time </h1>
+  <h1> Python Programming for Data Science: Module 13 - Python Date time and File Handling </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -14,10 +14,10 @@
 
 </div>
 
-[<< Day 15](../15_Day_Python_type_errors/15_python_type_errors.md) | [Day 17 >>](../17_Day_Exception_handling/17_exception_handling.md)
+[<< Module 12](../12_Module_Regular_expressions/12_regular_expressions.md) | [Module 14 >>](../14_Module_Modules_Virtual_environment/14_modules_virtual_environment.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-- [📘 Day 16](#-day-16)
+- [📘 Module 13](#-module-13)
   - [Python *datetime*](#python-datetime)
     - [Getting *datetime* Information](#getting-datetime-information)
     - [Formatting Date Output Using *strftime*](#formatting-date-output-using-strftime)
@@ -26,8 +26,9 @@
     - [Time Objects to Represent Time](#time-objects-to-represent-time)
     - [Difference Between Two Points in Time Using](#difference-between-two-points-in-time-using)
     - [Difference Between Two Points in Time Using *timedelta*](#difference-between-two-points-in-time-using-timedelta)
-  - [💻 Exercises: Day 16](#-exercises-day-16)
-# 📘 Day 16
+  - [💻 Exercises: Module 13](#-exercises-module-13)
+  
+# 📘 Module 13
 
 ## Python *datetime*
 
@@ -684,4 +685,4 @@ field: skills
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 15](../15_Day_Python_type_errors/15_python_type_errors.md) | [Day 17 >>](../17_Day_Exception_handling/17_exception_handling.md)
+[<< Module 12](../12_Module_Regular_expressions/12_regular_expressions.md) | [Module 14 >>](../14_Module_Modules_Virtual_environment/14_modules_virtual_environment.md)

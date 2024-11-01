@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 20 - PIP </h1>
+  <h1> Python Programming for Data Science: Module 15 - PIP </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -13,11 +13,11 @@
 </sub>
 </div>
 
-[<< Day 19](../19_Day_File_handling/19_file_handling.md) | [Day 21 >>](../21_Day_Classes_and_objects/21_classes_and_objects.md)
+[<< Module 14](../14_Module_Modules_Virtual_environment/14_modules_virtual_environment.md) | [Module 16 >>](../16_Module_Classes_and_objects/16_classes_and_objects.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Day 20](#-day-20)
+- [📘 Module 15](#-module-15)
   - [Python PIP - Python Package Manager](#python-pip---python-package-manager)
     - [What is PIP ?](#what-is-pip-)
     - [Installing PIP](#installing-pip)
@@ -31,7 +31,7 @@
     - [Further Information About Packages](#further-information-about-packages)
   - [Exercises: Day 20](#exercises-day-20)
 
-# 📘 Day 20
+# 📘 Module 15
 
 ## Python PIP - Python Package Manager
 
@@ -456,4 +456,4 @@ The **__init__**.py exposes specified resources from its modules to be imported 
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 19](../19_Day_File_handling/19_file_handling.md) | [Day 21 >>](../21_Day_Classes_and_objects/21_classes_and_objects.md)
+[<< Module 14](../14_Module_Modules_Virtual_environment/14_modules_virtual_environment.md) | [Module 16 >>](../16_Module_Classes_and_objects/16_classes_and_objects.md)

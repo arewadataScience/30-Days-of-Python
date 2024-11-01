@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 22 - Web Scraping </h1>
+  <h1> Python Programming for Data Science: Module 17 - Web Scraping and APIs </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -13,16 +13,16 @@
 </sub>
 </div>
 
-[<< Day 21](../21_Day_Classes_and_objects/21_classes_and_objects.md) | [Day 23 >>](../23_Day_Virtual_environment/23_virtual_environment.md)
+[<< Module 16](../16_Module_Classes_and_objects/16_classes_and_objects.md) | [Module 18 >>](../18_Module_Statistics_Numpy_Pandas/24_statistics_numpy_pandas.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Day 22](#-day-22)
+- [📘 Module 17](#-module-17)
   - [Python Web Scraping](#python-web-scraping)
     - [What is Web Scrapping](#what-is-web-scrapping)
-  - [💻 Exercises: Day 22](#-exercises-day-22)
+  - [💻 Exercises: Module 17](#-exercises-module-17)
 
-# 📘 Day 22
+# 📘 Module 17
 
 ## Python Web Scraping
 
@@ -232,4 +232,4 @@ The GET, POST, PUT and DELETE are the HTTP request methods which we are going to
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 21](../21_Day_Web_scraping/21_class_and_object.md) | [Day 23 >>](../23_Day_Virtual_environment/23_virtual_environment.md)
+[<< Module 16](../16_Module_Classes_and_objects/16_classes_and_objects.md) | [Module 18 >>](../18_Module_Statistics_Numpy_Pandas/24_statistics_numpy_pandas.md)

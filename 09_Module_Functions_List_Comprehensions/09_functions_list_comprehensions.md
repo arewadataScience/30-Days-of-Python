@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 11 - Functions</h1>
+  <h1> Python Programming for Data Science: Module 9 - Functions and List Comprehensions </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -14,11 +14,11 @@
 
 </div>
 
-[<< Day 10](../10_Day_Loops/10_loops.md) | [Day 12 >>](../12_Day_Modules/12_modules.md)
+[<< Module 8](../08_Module_Loops/08_loops.md) | [Module 10 >>](../10_Module_Higher_order_functions/10_higher_order_functions.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Day 11](#-day-11)
+- [📘 Module 9](#-module-9)
   - [Functions](#functions)
     - [Defining a Function](#defining-a-function)
     - [Declaring and Calling a Function](#declaring-and-calling-a-function)
@@ -37,7 +37,7 @@
     - [Exercises: Level 2](#exercises-level-2)
     - [Exercises: Level 3](#exercises-level-3)
 
-# 📘 Day 11
+# 📘 Module 9
 
 ## Functions
 
@@ -378,7 +378,7 @@ print(do_something(square_number, 3)) # 27
 
 Now it is time to express your thoughts about the Author and 30DaysOfPython. You can leave your testimonial on this [link](https://testimonial-s3sw.onrender.com/)
 
-## 💻 Exercises: Day 11
+## 💻 Exercises: Module 9
 
 ### Exercises: Level 1
 
@@ -638,4 +638,4 @@ print(two_power_of_five)  # 32
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 8](../08_Day_Loops/08_loops.md) | [Day 10>>](../12_Day_Higher_order_functions/10_higher_order_functions.md)
+[<< Module 8](../08_Module_Loops/08_loops.md) | [Module 10 >>](../10_Module_Higher_order_functions/10_higher_order_functions.md)

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 5 - Lists, Tuples and Sets</h1>
+  <h1> Python Programming for Data Science: Module 5 - Lists, Tuples and Sets</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -14,11 +14,11 @@
 
 </div>
 
-[<< Day 4](../04_Day_Strings/04_strings.md) | [Day 6 >>](../06_Day_Tuples/06_tuples.md)
+[<< Module 4](../04_Module_Strings/04_strings.md) | [Module 6 >>](../06_Module_Dictionaries/06_dictionaries.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [Day 5](#day-5)
+- [Module 5](#module-5)
   - [Lists](#lists)
     - [How to Create a List](#how-to-create-a-list)
     - [Accessing List Items Using Positive Indexing](#accessing-list-items-using-positive-indexing)
@@ -43,7 +43,7 @@
     - [Exercises: Level 1](#exercises-level-1)
     - [Exercises: Level 2](#exercises-level-2)
 
-# Day 5
+# Module 5
 
 ## Lists
 
@@ -526,7 +526,7 @@ To sort lists we can use _sort()_ method or _sorted()_ built-in functions. The _
 
 🌕 You are diligent and you have already achieved quite a lot. You have just completed day 5 challenges and you are 5 steps a head in to your way to greatness. Now do some exercises for your brain and muscles.
 
-## 💻 Exercises: Day 5
+## 💻 Exercises: Module 5
 
 ### Exercises: Level 1
 
@@ -1188,4 +1188,4 @@ age = [22, 19, 24, 25, 26, 24, 25, 24]
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 4](../04_Day_Strings/04_strings.md) | [Day 6 >>](../06_Day_Dictionaries/06_dictionaries.md)
+[<< Module 4](../04_Module_Strings/04_strings.md) | [Module 6 >>](../06_Module_Dictionaries/06_dictionaries.md)

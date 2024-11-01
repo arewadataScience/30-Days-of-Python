@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Module 18 - Statistics, NumPy and Pandas</h1>
+  <h1> Python Programmming for Data Science: Module 18 - Statistics, NumPy and Pandas</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -15,7 +15,7 @@
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Day 24](#-day-24)
+- [📘 Module 18](#-module-18)
   - [Python for Statistical Analysis](#python-for-statistical-analysis)
   - [Statistics](#statistics)
   - [Data](#data)
@@ -1225,7 +1225,7 @@ To summarize, the main differences with python lists are:
 1. An equivalent numpy array occupies much less space than a python list of lists.
 1. numpy arrays support boolean indexing.
 
-## 💻 Exercises: Day 24
+## 💻 NumPy Exercises
 
 1. Repeat all the examples
 

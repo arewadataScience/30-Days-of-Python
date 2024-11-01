@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 18 - Regular Expressions </h1>
+  <h1> Python Programming for Data Science: Module 12 - Regular Expressions </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -14,11 +14,11 @@
 </div>
 </div>
 
-[<< Day 17](../17_Day_Exception_handling/17_exception_handling.md) | [Day 19>>](../19_Day_File_handling/19_file_handling.md)
+[<< Module 11](../11_Module_Python_type_errors/11_python_type_errors.md) | [Module 13 >>](../13_Module_Python_date_time_file_handling/13_python_datetime_file_handling.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Day 18](#-day-18)
+- [📘 Module 12](#-module-12)
   - [Regular Expressions](#regular-expressions)
     - [The *re* Module](#the-re-module)
     - [Methods in *re* Module](#methods-in-re-module)
@@ -41,7 +41,7 @@
     - [Exercises: Level 2](#exercises-level-2)
     - [Exercises: Level 3](#exercises-level-3)
 
-# 📘 Day 18
+# 📘 Module 12
 
 ## Regular Expressions
 
@@ -456,4 +456,4 @@ distance = 8 -(-12) # 20
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 17](../17_Day_Exception_handling/17_exception_handling.md) | [Day 19>>](../19_Day_File_handling/19_file_handling.md)
+[<< Module 11](../11_Module_Python_type_errors/11_python_type_errors.md) | [Module 13 >>](../13_Module_Python_date_time_file_handling/13_python_datetime_file_handling.md)
