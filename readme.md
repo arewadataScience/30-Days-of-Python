@@ -17,9 +17,9 @@ https://arewadatascience.github.io
 example
 
 
-# 🐍  Arewa Data Science 30 Days Of Python  🐍
+# 🐍  Arewa Data Science Academy Python Programming for Data Science 🐍
 
-|# Day | Topics                                                    |
+|# Module | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](./readme.md)|
 | 02  |  [Variables, Built-in Functions](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)|
@@ -90,7 +90,7 @@ example
     - [Exercise: Level 2](#exercise-level-2)
     - [Exercise: Level 3](#exercise-level-3)
 
-# 📘 Day 1
+# 📘 Module 1
 
 
 <p align="justify">
